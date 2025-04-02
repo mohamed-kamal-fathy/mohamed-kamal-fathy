@@ -12,7 +12,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 <p align="left">
-🌱 I’m currently learning Automation Testing with **selenium** <br><br>
+🌱 I’m currently learning Automation Testing with selenium <br><br>
   
 👨‍💻 All of my projects are available at <a href="https://github.com/mohamed-kamal-fathy" target="blank" >GitHub</a><br><br>
   
