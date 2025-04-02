@@ -13,7 +13,7 @@
 
 <p align="left">
 🌱 I’m currently learning Automation Testing with selenium <br><br>
-👨‍💻 All of my projects are available at GitHub<br><br>
+👨‍💻 All of my projects are available at <a href="https://github.com/mohamed-kamal-fathy" target="blank" >GitHub</a><br><br>
 📝 I regularly write articles on LinkedIn<br><br>
 💬 Ask me about  ( SQL , API , OOP , REST Assured , Postman , CSS , HTML , JAVA , C++ , and JavaScript )<br><br>
 📫 How to reach me **mohamedkamalfathi0@gmail.com** <br><br>
