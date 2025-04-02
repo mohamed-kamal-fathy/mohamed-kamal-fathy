@@ -16,7 +16,7 @@
 👨‍💻 All of my projects are available at GitHub<br><br>
 📝 I regularly write articles on LinkedIn<br><br>
 💬 Ask me about  ( SQL , API , OOP , REST Assured , Postman , CSS , HTML , JAVA , C++ , and JavaScript )<br><br>
-📫 How to reach me mohamedkamalfathi0@gmail.com<br><br>
+📫 How to reach me **mohamedkamalfathi0@gmail.com** <br><br>
 📄 Know about my experiences <a href="https://drive.google.com/file/d/16icReWDlzqj79K_WHJX471b2sfDdJO0S/view?usp=sharing" target="blank" >Resume</a><br><br>
 ⚡ Fun fact I never give up
 
