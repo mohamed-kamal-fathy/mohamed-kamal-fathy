@@ -11,7 +11,15 @@
 ###
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-<p align="left">🌱 I’m currently learning Automation Testing ( selenium )<br><br>👨‍💻 All of my projects are available at GitHub<br><br>📝 I regularly write articles on LinkedIn<br><br>💬 Ask me about  ( SQL ,  API , OOP , REST Assured , Postman , CSS , HTML , JAVA , C++ , and JavaScript )<br><br>📫 How to reach me mohamedkamalfathi0@gmail.com<br><br>⚡ Fun fact I never give up</p>
+<p align="left">
+🌱 I’m currently learning Automation Testing ( selenium )<br><br>
+👨‍💻 All of my projects are available at GitHub<br><br>
+📝 I regularly write articles on LinkedIn<br><br>💬 Ask me about  ( SQL , API , OOP , REST Assured , Postman , CSS , HTML , JAVA , C++ , and JavaScript )<br><br>
+📫 How to reach me mohamedkamalfathi0@gmail.com<br><br>
+⚡ Fun fact I never give up
+
+
+</p>
 
 ###
 
