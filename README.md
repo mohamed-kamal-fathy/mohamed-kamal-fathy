@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Software Test Engineer</p>
+<h3 align="center">Software Test Engineer</h3>
 
 ###
 
