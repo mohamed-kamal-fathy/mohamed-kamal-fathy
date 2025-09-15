@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Software Test Engineer</h3>
+<h3 align="center">Software Test & QA Engineer</h3>
 
 ###
 
