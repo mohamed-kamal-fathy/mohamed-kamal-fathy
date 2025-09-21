@@ -30,7 +30,7 @@
 </p>
 
 ### :mortar_board: Graduating:
-• Faculty of Computers and artificial intelligence | Graduation Year: 2023
+• Faculty of Computers and artificial intelligence | Graduation Year:2023
 
 • Graduation Project: FASST PASS (Grade: A+), and it is an automatic system for road gates it is used to of cars on the road collect tolls digitally without standing in the way and disrupting traffic
 ###
