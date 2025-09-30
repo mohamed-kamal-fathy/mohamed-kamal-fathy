@@ -35,7 +35,7 @@
 • Graduation Project: FASST PASS (Grade: A+), and it is an automatic system for road gates it is used to of cars on the road collect tolls digitally without standing in the way and disrupting traffic
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with </h2>
 
 ###
 
